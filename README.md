@@ -1,3 +1,7 @@
+
+![Screenshot 2024-08-06 123439](https://github.com/user-attachments/assets/d662e8ae-359a-42d9-8afe-13ac61031233)
+
+
 # Azure-Project-1-with-firewall-
 Deploying an application behind Firewall on Azure 
 
