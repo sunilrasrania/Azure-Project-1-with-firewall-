@@ -9,6 +9,7 @@ this is our first project on azure
 
 first we create a virtual network 
 
+
 in this virtual network we will create a firewall , behind this firewall we will setup a subnet (web application subnet) , we will enable azure bastion
 in this web application subnet (defalt subnet), we will deploy a virtual machine. 
 
